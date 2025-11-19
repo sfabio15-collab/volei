@@ -1,5 +1,5 @@
 body{
-    color:#ff0000;
+    color:#000000;
     background: rgb(255, 255, 255);
      margin: 0px;
     font-family: "Oswald", sans-serif;
@@ -7,10 +7,10 @@ body{
 }
 
 header{
-    border-bottom: solid 2px rgb(0, 248, 248);
+    border-bottom: solid 2px rgb(0, 0, 0);
     padding: 20px;
     font-size: 33px;
-    color: rgb(227, 232, 233);
+    color: rgb(14, 14, 14);
 }
 .chamada{
     background: rgb(255, 255, 255);
